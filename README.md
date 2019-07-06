@@ -2,8 +2,8 @@
 
 <b>Logic</b>
 
-The objective for this application was to create a Burger App using Node, Express, Handlebars and our own ORM.<br>
-MySQL was used as the database for the app.<br>
+The objective for Eat-Da-Burger was to create an app using Node, Express, MySQL, Handlebars and our own ORM.<br>
+The application is simple. You input a burger name, add it to a list of other burgers, then you can choose which ones to consume.
 
 <b>Technologies Used</b>
 
